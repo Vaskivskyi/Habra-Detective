@@ -9,7 +9,7 @@
 
 ### About the project
 
-Habra-detective appeared on November 11, 2019 after [small investigation of suspicious behavior for some users](https://habr.com/en/post/477128/). Later I started to publish new investigations and different analyzes of what is going on on [Habr](https://habr.com/). Since I was already asked several times to create new posts for different topics, I decided to create this repo. It will be a collection of new topics for publication and everyone is welcome to [add something new](https://github.com/Vaskivskyi/Habra-Detective/issues). Moreover, I will post all the links for finished articles here. I know, that up till now I published mostly in Ru part of Habr, but as soon as I will get interesting material for En audience, it will be added.
+Habra-detective appeared on November 24, 2019 after [small investigation of suspicious behavior for some users](https://habr.com/en/post/477128/). Later I started to publish new investigations and different analyzes of what is going on on [Habr](https://habr.com/). Since I was already asked several times to create new posts for different topics, I decided to create this repo. It will be a collection of new topics for publication and everyone is welcome to [add something new](https://github.com/Vaskivskyi/Habra-Detective/issues). Moreover, I will post all the links for finished articles here. I know, that up till now I published mostly in Ru part of Habr, but as soon as I will get interesting material for En audience, it will be added.
 
 ### Публикации
 
